@@ -140,9 +140,6 @@ h6 {
   padding: 3% 2%;
 }
 
-.price-subheading {
-  padding: 1% 2% 3%;
-}
 media(max-width: 1028px)  {
 
   #title{
@@ -154,8 +151,9 @@ media(max-width: 1028px)  {
   }
 
 }
-
-
+.price-subheading {
+  padding: 1% 2% 3%;
+}
 .card {
   margin-top: 1%;
 }
